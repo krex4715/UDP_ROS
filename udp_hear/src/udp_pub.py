@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import rospy
 from std_msgs.msg import Float64MultiArray
@@ -7,7 +7,7 @@ import socket
 
 
 
-UDP_IP = '192.168.50.78'
+UDP_IP = '192.168.50.96'
 UDP_PORT = 2001
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
