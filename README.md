@@ -1,4 +1,10 @@
-if Error Message occured "illegal instructions (core dumped)",     
+
+***
+#### Check Firewall Settings
+in Window / Linux / Ubuntu
+
+
+#### if Error Message occured "illegal instructions (core dumped)",     
 
 add ~/.bashrc
 
@@ -8,6 +14,10 @@ export OPENBLAS_CORETYPE=ARMV8
 
 
 
+
+
+
+***
 the UDP server is ROS Node 
 ```bash
 rosrun udp_hear udp_pub.py
