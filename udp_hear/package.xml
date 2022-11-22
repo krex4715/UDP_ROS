@@ -1,13 +1,9 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>joonhyun_udp_hear</name>
+  <name>udp_hear</name>
   <version>0.0.0</version>
-  <description>The joonhyun_udp_hear package</description>
-
-  <!-- One maintainer tag required, multiple allowed, one person per tag -->
-  <!-- Example:  -->
-  <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="nvidia@todo.todo">nvidia</maintainer>
+  <description>The udp_hear package</description>
+  <maintainer email="udp_hear@todo.todo">nvidia</maintainer>
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
